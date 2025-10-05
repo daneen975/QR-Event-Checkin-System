@@ -2,6 +2,10 @@
 
 A modern, event management system with QR code ticket generation, email notifications, and real-time attendance tracking.
 
+## Live Demo
+
+https://daneen975.github.io/QR-Event-Checkin-System/
+
 ## Features
 
 - Create and manage multiple events
