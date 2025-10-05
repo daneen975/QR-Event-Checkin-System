@@ -4,7 +4,7 @@ A modern, event management system with QR code ticket generation, email notifica
 
 ## Live Demo
 
-https://daneen975.github.io/QR-Event-Checkin-System/
+[Launch Application](https://daneen975.github.io/QR-Event-Checkin-System/)
 
 ## Features
 
